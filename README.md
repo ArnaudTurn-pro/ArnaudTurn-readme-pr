@@ -4,7 +4,6 @@ Building at the intersection of **AI, agents, and algorithmic trading**.
 Exploring intelligence across **tabular data, text, and images**.
 
 🧠 **Create. Iterate. Industrialize.**
-
 ---
 
 ### 🧩 What I Do
@@ -12,6 +11,7 @@ Exploring intelligence across **tabular data, text, and images**.
 ![Backend](https://img.shields.io/badge/Back%20End-181717?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Front%20End-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20Frameworks-FF6F61?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -25,8 +25,10 @@ Exploring intelligence across **tabular data, text, and images**.
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FB9B2B?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-F2A900?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ---
 
